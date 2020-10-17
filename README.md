@@ -66,7 +66,7 @@ php vendor/bin/phinx seed:run -s MatchSeeder
 ```
 
 
-# Packege
+# Packages
 [coffeecode/router](https://packagist.org/packages/coffeecode/router)
 [coffeecode/datalayer](https://packagist.org/packages/coffeecode/datalayer)
 [robmorgan/phinx](https://packagist.org/packages/robmorgan/phinx)
