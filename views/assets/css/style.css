@@ -1,0 +1,53 @@
+a{
+    transition: all 0.4s;
+}
+section{
+    padding: 30px 0;
+}
+h1{
+    color:#007eff;
+}
+#ajax_loader{
+    position: fixed;
+    left: 0;
+    display: none;
+    width: 100%;
+    background: #47716dc2;
+    height: 100%;
+    top: 0;
+}
+.spinner-grow.text-secondary {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: 0 auto;
+}
+.nav-link.btn-new {
+    border: 1px solid #007eff;
+    color: #007eff !important;
+}
+.nav-link.btn-new:hover {
+    border: 1px solid #007eff;
+    color: #fbfbfb !important;
+    background: #007eff;
+}
+
+#matches{
+    background: #f5f5f5;
+}
+
+.yellow{
+    color: #e7e30f;
+}
+.green{
+    color: green;
+}
+.gray{
+    color: gray;
+}
+#friends_select {
+    padding: 5px;
+    margin-bottom: 10px;
+}

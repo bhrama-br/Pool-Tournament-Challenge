@@ -1,0 +1,27 @@
+{
+    "name": "paulobramante/pool",
+    "description": "Pool Tournament  Challenge",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paulo Bramante",
+            "email": "paulobram15@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Config.php"
+        ]
+    },
+    "require": {
+        "php": ">=7.2",
+        "coffeecode/router": "^1.0",
+        "coffeecode/datalayer": "1.1.*",
+        "robmorgan/phinx": "^0.12.4",
+        "league/plates": "v4.0.0-alpha",
+        "fzaninotto/faker": "^1.9"
+    }
+}
