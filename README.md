@@ -22,14 +22,14 @@ Submission page
 
 # Run
 __Create Table MySql__
-...pool_development...
+>pool_development
 
 **Exec Migration**
-...vendor/bin/phinx migrate -e development...
+>vendor/bin/phinx migrate -e development
 
 **Exec Seeds**
-...php vendor/bin/phinx seed:run -s FriendSeeder...
-...php vendor/bin/phinx seed:run -s MatchSeeder...
+>php vendor/bin/phinx seed:run -s FriendSeeder
+>php vendor/bin/phinx seed:run -s MatchSeeder
 
 
 # Packege
