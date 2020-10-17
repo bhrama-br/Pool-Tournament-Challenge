@@ -21,6 +21,21 @@ Submission page
 - MySql
 
 # Run
+
+__Configs__
+```python
+./source/Config.php
+
+Alter
+ROOT -> Link Application
+
+DB
+host -> Host DB
+port -> Port DB
+username -> User DB
+passwd -> Password DB
+```
+
 __Create Table MySql__
 ```python
 pool_development

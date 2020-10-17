@@ -1,5 +1,5 @@
 <?php 
-    define("ROOT", "http://poll.com");
+    define("ROOT", "http://pool.com");
 
     define("DB_DEVELOPMENT", "pool_development");
 
