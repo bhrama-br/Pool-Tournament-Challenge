@@ -36,6 +36,17 @@ username -> User DB
 passwd -> Password DB
 ```
 
+```python
+./phinx.php
+
+Alter
+DB
+host > Host DB
+user -> User DB
+pass -> Password DB
+port -> Port DB
+```
+
 __Create Table MySql__
 ```python
 pool_development
